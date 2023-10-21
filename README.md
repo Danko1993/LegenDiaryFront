@@ -11,3 +11,25 @@ In order to achieve compatibility between the various functionalities of the web
 The project is in the process of being expanded with new functionalities.
 
 Frontend of the project.
+
+## Features 
+
+Features below apply for both back and front-end part of the project.
+
+- User securte registration and login
+- Browsing a map with poits of interest
+- Adding points of interest with description and photos
+- Browsing local radio stations
+- Integrated weather API
+- Score system to reward most active and most effective users (still in progress)
+
+## Technologies
+
+- React 
+- Leaflet
+- Jsonwebtoken
+- Formik
+- Yup
+- Open Street Map Api
+- Radio Browser Api
+  
